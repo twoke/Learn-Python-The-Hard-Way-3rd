@@ -1,11 +1,20 @@
 #!/bin/python2
 # -*- coding: utf-8 -*-
 
-print "Mary had a little lamb."
-print "Its fleece was white as %s" % 'snow'
-print "And everywhere that Mary went."
-print "." * 10 # what'd that do
 
+# Print "Mary had a little lamb" 
+print "Mary had a little lamb."
+
+# Print "Its fleece was white as snow.
+print "Its fleece was white as %s" % 'snow'
+
+# Print "And everywhere that Mary went."
+print "And everywhere that Mary went."
+
+# Print ".........."
+print "." * 10 # what'd that do - "*" operator for strings is used to repeat the same characters for certain times
+
+# Assign string value for each variable
 end1 = 'C'
 end2 = 'h'
 end3 = 'e'
