@@ -1,4 +1,4 @@
-name = 'Yang dengwei'
+name = 'Zed A.Shaw'
 age = 34
 height = 75 #inches
 weight = 172 # lbs
