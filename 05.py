@@ -1,7 +1,7 @@
-name = 'Zed A. shaw'
-age = 35
-height = 74 #inches
-weight = 180 # lbs
+name = 'Yang dengwei'
+age = 34
+height = 75 #inches
+weight = 172 # lbs
 eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
