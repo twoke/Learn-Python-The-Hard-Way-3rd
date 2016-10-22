@@ -1,6 +1,6 @@
 from sys import argv
 
-script, user_name city = argv
+script, user_name, city = argv
 prompt = 'Please type the answer:'
 
 print  "Hi, %s from %s,I'm the %s script." % (user_name, city, script)
@@ -19,4 +19,4 @@ Alright, so you said %r about liking me.
 The weather in your city is %s.
 But I can't feel it because I'm a robot.
 And you have a %r computer.Nice.
-""" % (lives, weather, computer)
+""" % (likes, weather, computer)
