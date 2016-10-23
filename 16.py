@@ -26,6 +26,7 @@ line3 = raw_input("line 3:")
 
 # target.write 写入文件
 print "I'm going to write these to to file."
+# target.write("%s\n%s\n%s\n" % (line1, line2, line3))
 target.write(line1)
 target.write("\n")
 target.write(line2)
