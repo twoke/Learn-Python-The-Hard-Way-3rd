@@ -21,8 +21,8 @@ my_first_name = 'Joseph'
 my_last_name = 'Pan'
 my_age = 24
 # print
-#print "%r my name is %s %s, and I'm %d years old." % (my_greeting, my_first_name, my_last_name, my_age)
-print "{} my name is {}{}, and I'm {} years old.".format(my_greeting, my_first_name, my_last_name, my_age)
+print "%r my name is %s %s, and I'm %d years old." % (my_greeting, my_first_name, my_last_name, my_age)
+
 # Try to write some variables that convert the inches and pounds to centimeters and kilos.
 inches_per_centimeters = 2.54
 pouds_per_kilo = 0.45359237
